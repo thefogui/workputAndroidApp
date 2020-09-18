@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">workout</string>
+    <string name="btnJoin">Join</string>
+    <string name="btnLogIn">Log In</string>
+    <string name="logo">Logo</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="DateOfBirth">Date of Birth</string>
+
+    <!-- JOIN LAYOUT -->
+    <string name="joinLayoutTitle">Join our community</string>
+    <string name="joinLayoutSubTitle">Create your profile and get access to our community content\'s</string>
+    <string name="joinLayoutAcceptTerms1">By creating an account, you agree to our\'s</string>
+    <string name="joinLayoutAcceptLink1"><u>Privacy Policy</u></string>
+    <string name="joinLayoutAcceptTerms2">and</string>
+    <string name="joinLayoutAcceptLink2"><u>Terms of Use</u></string>
+    <string name="joinLayoutAcceptTerms3">.</string>
+    <string name="joinLayoutButtonJoin">Join us</string>
+    <string name="joinLayoutLinkLogin"><u>Sign in</u></string>
+</resources>
